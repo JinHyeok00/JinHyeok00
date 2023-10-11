@@ -31,8 +31,5 @@
 
 
 
-<div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyeok00&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=JinHyeok00&show_icons=true">
-</div>
+
 <br>
